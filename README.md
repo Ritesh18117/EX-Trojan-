@@ -12,7 +12,7 @@ Licensed under the [MIT License](LICENSE.txt).
 
 
 # EX(Trojen)
-It's a trojen which in target side shows a number guessing game but actually it a trojen which is spying the system.
+It's a trojen which in target side shows roll dice game but actually it a trojen which is spying the system.
 
 
 The trojen can do the stuffs like :
